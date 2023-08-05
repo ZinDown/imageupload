@@ -11,3 +11,11 @@ How to use?
 - Paste link into my app and click Download Button.
 - Select HD/SD quality.
 Now you can easily watch and download.
+
+
+Nihon Medical College Kaushi No. 1-314
+
+1-19-13 Nishinakada, Taihaku Ward, Sendai City
+
+
+Postal code 981-1105
