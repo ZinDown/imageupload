@@ -19,3 +19,4 @@ Nihon Medical College Kaushi No. 1-314
 
 
 Postal code 981-1105
+サン シャー
