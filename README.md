@@ -21,3 +21,18 @@ Nihon Medical College Kaushi No. 1-314
 Postal code 981-1105
 サン シャー
 エ ミ ミ トゥン
+
+# FAN Ads 
+
+facebook.com, 376602980788849, DIRECT, c3e20eee3f780d68
+
+Banner id
+757583418469632_757584605136180
+
+interstitial id
+757583418469632_757584788469495
+
+App id
+
+
+implementation 'com.facebook.android:audience-network-sdk:6.+'
